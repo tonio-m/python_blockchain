@@ -17,6 +17,7 @@ there were some compromises made for the sake of simplicity:
 * No Miner identity (no miner hash)
 * No rewards based on PoW
 * No wallet balance (balance achieved by tallying up the transaction history)
+* No nakamoto consensus, since there is no client server and its not a distributed system.
 
 
 Apart from these, all the functions implemented are really similar to something you would find on the bitcoin source code.
