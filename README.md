@@ -13,7 +13,7 @@ This is meant to exemplify hands-on the basic concepts of a blockchain.
 Since this is a project meant for learning and not for actual hosting, 
 there were some compromises made for the sake of simplicity:
 
-* No Client/Server separation
+* No Client separation
 * No Miner identity (no miner hash)
 * No rewards based on PoW
 * No wallet balance (balance achieved by tallying up the transaction history)
